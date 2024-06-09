@@ -2,12 +2,12 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dotexe3301/Personal-Bookshelf.git
+   git clone https://github.com/dotexe3301/bookshelf.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Personal Bookshelf
+   cd bookshelf
    ```
 
 3. Dependencies:
